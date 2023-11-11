@@ -16,3 +16,5 @@ The overview of the four methods is that methods 1 and 2 will use the extracted 
 The method 2 has the best performance. Here is the confusion matrix of method 2:
 
 <img width="284" alt="image" src="https://github.com/GhostDragon124/Research_project_ELEC5305/assets/47167674/1ace7cd8-9938-44a4-8bb6-634e50e9abf7">
+
+<img width="263" alt="image" src="https://github.com/GhostDragon124/Research_project_ELEC5305/assets/47167674/75c1e0ba-5204-4656-97a2-e829b71aa72b">
